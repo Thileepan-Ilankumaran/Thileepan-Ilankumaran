@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Thileepan-Ilankumaran
-- 👀 I’m a Blockchain Developer Trainee @SoluLab
-- 🌱 I’m currently learning Solidity, React, L2, EVM, zkSync
-- 💞️ I’m looking for Blockchain Dev jobs
+- 👋 Hi, I’m @Thileepan-I aka fearofall.uni.eth
+- 👀 I’m an experienced(2years) Blockchain Developer{Solidity} @CloudinLabs
+- 🌱 I’ve onboadred 4 projects successfully in mainnet
+- 💞️ I use tech stacks such as Foundry, Hardhat, Ethers.js, Wagmi, Viem, Chainlink
 - 📫 Contact me at email : thileep.ilankumaran@gmail.com
 
 <!---
